@@ -15,3 +15,14 @@ La funzione arrow non può accedere a this quando viene usata come metodo in un 
 
 ## 5: Differenza tra scope locale e globale
 Lo scope è il contesto di esecuzione in cui i valori e le espressioni sono visibili e accessibili.
+
+## 6: Le stringhe possono essere considerate degli Array?
+A parte per tipo, si comportano nello stesso modo: possiamo accedere agli elementi indicizzati ed è presente la proprietà length. Però la stringa può contentere soltanto caratteri e non dati qualsiasi.
+
+## 7: Cosa è una Closure
+
+Un meccanismo per rendere disponibili funzioni o variabili con scope locale ad uno scope globale che le richiama. (e poi guarda esempio)
+
+## 8: Cosa è il currying
+E' un metodo per scomporre funzioni. Si definisce un generatore di funzioni che restituisce funzioni dove il primo argomento è già definito, alla funzione restituita si inserirà ad esempio il secondo argomento per ottenere il risultato finale.
+
