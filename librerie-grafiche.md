@@ -1,4 +1,4 @@
-Utlizzare librerie aggiuntive usando typescript e vite 
+## Utlizzare librerie aggiuntive usando typescript e vite 
 
 Continua su esercitazione: [Albero genealogico dei Duck](https://github.com/lichfolky/ts-ducks)
 
@@ -22,3 +22,11 @@ https://threejs.org/
 
 Augmented reality google:
 https://modelviewer.dev/
+
+Altro:
+Immagine
+https://static.wikia.nocookie.net/paperpedia/images/f/fa/Albero_genealogico_2_versione.jpg/revision/latest?cb=20120905190542&path-prefix=it 
+
+Info:
+https://it.wikipedia.org/wiki/Albero_genealogico_dei_paperi
+https://www.ventennipaperoni.com/2022/01/03/chi-e-il-papa-di-qui-quo-e-qua/
